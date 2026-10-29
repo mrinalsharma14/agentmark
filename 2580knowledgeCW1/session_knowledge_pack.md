@@ -41,9 +41,9 @@ Knowledge retrieval is probabilistic. Hence the mandatory start-of-session check
 
 ---
 
-# CST 2580 Coursework 1 Lab Test – Rubric Reference (extracted)
+# 2580 Coursework 1 Lab Test – Rubric Reference (extracted)
 
-Source: "CST 2580 Coursework 1 Lab Test Marking Guide" (PDF supplied by staff). This file is a faithful structural extraction for retrieval. The PDF remains the authority. If this file and the PDF differ, the PDF wins and the marker must be told.
+Source: "2580 Coursework 1 Lab Test Marking Guide" (PDF). This file is a faithful structural extraction for retrieval. The PDF remains the authority. If this file and the PDF differ, the PDF wins and the marker must be told.
 Total: 80 marks. Acquisition subtotal (A1–A4) = 45. Analysis subtotal (B1–B4) = 35.
 
 ## A1 – Acquisition Form (10)
