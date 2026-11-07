@@ -9,7 +9,7 @@
 | Assessment title | CST 3510 Memory Analysis Coursework 1 |
 | Module / unit | |
 | Marking guides / version used | |
-| Preparation Table available (Y/N) | |
+| Stage 1 package list used (guide wording; Preparation Table not supplied) | |
 | Submission files examined | |
 | Files not accessed (and why) | |
 | Analysis questions answered / selected for marking | |
@@ -73,5 +73,21 @@
 - Priority areas for improvement:
 - Items requiring human review:
 - Suggestions outside the total (not authorised by the rubric, for marker decision only):
+
+## D. Marksheet entry list (guide-scale marks; the marker's Excel converts)
+| Marksheet field | Guide-scale mark |
+|---|---|
+| Acquisition Stage 1 | /10 |
+| Acquisition Stage 2 | /10 |
+| Acquisition Stage 3 | /10 |
+| Acquisition Stage 4 | /10 |
+| Acquisition Stage 5 | /10 |
+| Analysis answer 1 (guide question name: ) | /10 |
+| Analysis answer 2 (guide question name: ) | /10 |
+| Analysis answer 3 (guide question name: ) | /10 |
+| Acquisition feedback (short) | |
+| Analysis feedback (short, labelled by guide question) | |
+
+Do not enter totals, the 50-mark value, percentage or rounded columns, and do not convert: the marker's Excel sheet does that.
 
 PROVISIONAL – subject to verification and final decision by the human marker.

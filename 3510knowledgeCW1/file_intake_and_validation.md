@@ -9,5 +9,5 @@ For each file: name, type, readable (yes/partly/no), page count if known.
 - Very large files may be only partly processed: say which parts were read.
 - Existing human marks or comments in the upload: do not use as evidence or copy them; tell the marker.
 - One student per session. If several students' files are attached, ask the marker to separate them.
-- Confirm the assessment matches (CST 3510 CW1; Preparation Table present for Stage 1; marker's tutor-assistance record supplied). Report mismatches.
-- Note which analysis questions the student answered. If more than three, ask the marker which three to mark.
+- Confirm the assessment matches (CST 3510 CW1; marker's tutor-assistance record supplied). Report mismatches.
+- Note which analysis questions the student answered. If the number is not three, flag it for the marker.

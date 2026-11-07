@@ -9,4 +9,5 @@
 - Do not mention the AI tool in student-facing text; write feedback the human marker can paste and edit.
 - Avoid absolute claims you cannot support. Use "the submission does not show..." rather than "the student did not do...".
 - Where tutor assistance reduced a mark, say so neutrally, naming the element.
+- Staff feedback on the cohort marksheet is short and criterion-specific. Match that register. Typical forward-looking points: analyse one specific PID in more depth using environment or Bash plugins; link network output to PIDs; explain the methodology behind each plugin; say how the analysis would continue; dump or extract the artefact where the question requires recovery.
 - Keep to roughly 25–60 words per stage/question unless the marker asks otherwise.

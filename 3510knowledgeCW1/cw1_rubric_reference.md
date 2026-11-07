@@ -1,7 +1,8 @@
 # CST 3510 Memory Analysis Coursework 1 – Rubric Reference (extracted)
 
 Sources: "CST 3510 Memory Analysis Coursework 1 Acquisition Marking Guide" and "CST 3510 Memory Analysis Coursework 1 Analysis Marking Guide" (tutor guides, PDF). This file is a structural extraction for retrieval. The PDF remains the authority. If this file and the PDF differ, the PDF wins and the marker must be told.
-Total: 80 marks. Acquisition = 50 (Stages 1–5, 10 each). Analysis = 30 (student answers THREE of five questions, 10 each).
+Total per the guides: 80 marks. Acquisition = 50 (Stages 1–5, 10 each). Analysis = 30 (student answers THREE of five questions, 10 each).
+NOTE: the cohort Excel marksheet records stages out of 6 and totals out of 60. The marker's Excel sheet does that conversion and the derived columns. The agent marks on the guide scale only (stages /10, total /80) and never converts. See marksheet_mapping.md.
 
 ## General principles (both guides)
 - Marks go to traceable evidence, successful outcomes and accurate explanation, not to the number of screenshots.
@@ -17,7 +18,7 @@ Total: 80 marks. Acquisition = 50 (Stages 1–5, 10 each). Analysis = 30 (studen
 ## ACQUISITION (50). Every stage = 7 (practical process and output) + 3 (verification and explanation)
 
 ### Stage 1 – Prepare the clean VM and required software (10)
-Definitive requirements: the Preparation Table supplied with the assessment (NOT in the files provided). Do not add package requirements not listed there.
+Definitive requirements per the guide: the Preparation Table supplied with the assessment. It has not been supplied to the agent. Mark package installation against the categories the guide names (required build tools, DWARF utility, headers for the running kernel) and flag anything that cannot be checked. Do not add requirements. The 10-minute preparation period itself is not marked.
 Practical (7): Correct clean VM, started after assessment begins, usable authenticated session 1 | Package-source configuration (sources.list correct for the supplied OS) 2 | Package-information update (apt update succeeds, no material repository/signature/retrieval errors) 1 | Required package installation (all packages in the Preparation Table, incl. build tools, DWARF utility, headers for running kernel) 3.
 Verification/explanation (3): Repository explanation (sources.list defines APT repositories; apt update retrieves package info; absence of material errors supports working configuration) 1 | Kernel identification (uname -r recorded accurately; explains it determines kernel-dependent components) 1 | Preparation explanation (why build packages and matching headers are needed before acquisition and profile building) 1.
 
@@ -91,11 +92,11 @@ Conclusion and limitation (1): connects user, editor, filename, path, recovery r
 Same evidence may be credited in more than one answer only where it makes a distinct analytical contribution. Q1 principal focus: privilege escalation (script/web-request detail secondary). Q2: local IRC (wget detail secondary). Q3: concealed module detection, recovery, purpose (full script reconstruction secondary). Q4: script.bash recovery and behaviour (full privilege-transition investigation secondary). Q5: secrets user, edited file, history suppression (kernel-module/IRC analysis secondary).
 
 ## Known issues to flag to the human marker (not resolved by the agent)
-1. The Stage 1 Preparation Table is the definitive requirement list but was not supplied. Without it, "Required package installation" (3 marks) cannot be fully verified. Ask the marker for it.
-2. The guides say students answer three of five questions but do not say what to do if more than three are answered (first three? best three?). Do not choose; ask the marker.
-3. No pass mark, grade boundaries, rounding rule, late penalty or percentage conversion is stated. Do not apply any. Report x/80.
-4. Tutor assistance records are not in the student submission. Substantive guidance has no stated numeric deduction ("credit independent parts"): flag the marker's decision. Minor prompt is "usually 1 mark".
+1. Scale: the guides use stages /10 and a total of /80; the marksheet uses stages /6 and a total of /60 with derived columns. The marker's Excel sheet performs the conversion. The agent reports guide-scale marks only and does not convert or compute marksheet columns.
+2. The Stage 1 Preparation Table was not supplied. Package installation (3 marks) is judged against the categories named in the guide; flag what cannot be verified.
+3. The guides state no pass mark, grade boundaries, rounding rule, late penalty or percentage conversion. Do not apply any.
+4. Tutor assistance records are not in the student submission; the marker supplies them. Substantive guidance has no stated numeric deduction ("credit independent parts"): propose a value and flag it. Minor prompt is "usually 1 mark".
 5. "Show understanding to students whose plugins took a long time to process" has no numeric rule. Do not adjust marks; note it for the marker.
-6. The clean sample is created during the assessment and varies. Do not expect clean-image values to match the model answer; mark the comparison, not specific clean-image values.
-7. Model-answer PIDs, addresses and filenames (e.g. 12315, 10114, 0xffffffffa03cc140, secretFile.txr) relate to the supplied infected sample. Mark against the evidence the student shows; for secretFile.txr the guide says to mark against the filename confirmed in the assessment image.
-8. No marksheet (Excel) for CST 3510 was supplied; the marksheet mapping is therefore undefined.
+6. The clean sample is created during the assessment and varies. Mark the comparison, not specific clean-image values.
+7. Model-answer PIDs, addresses and filenames (e.g. 12315, 10114, 0xffffffffa03cc140, secretFile.txr) relate to the supplied infected sample. Mark against the evidence the student shows; for secretFile.txr mark against the filename confirmed in the assessment image.
+8. Students choose three of the five analysis questions and answer only those. Mark the three answered and label each by its guide question name (the marker places them in the marksheet slots). If the number answered is not three, flag it.

@@ -1,8 +1,8 @@
 # Marking Workflow (CST 3510 CW1)
 
-1. Confirm the rubric: list stages/questions, exact names, sub-criteria, maxima and total. Stop if unavailable. Confirm the Preparation Table is present for Stage 1; if not, say so.
+1. Confirm the rubric: list stages/questions, exact names, sub-criteria, maxima and total (guide scale). Stop if unavailable. The Preparation Table is not supplied; say so for Stage 1.
 2. File intake (file_intake_and_validation.md). Record files examined and not accessed.
-3. Ask the marker for the tutor-assistance record (per stage/criterion) and which three analysis questions are to be marked if more than three were answered.
+3. Ask the marker for the tutor-assistance record (per stage/criterion). Identify the three analysis questions the student answered.
 4. Build the criterion-to-evidence checklist from the rubric. Do not add items.
 5. Mark Stages 1–5 in order, then each selected analysis question, independently:
    a. Gather screenshots/outputs with locators.
